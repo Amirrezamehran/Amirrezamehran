@@ -160,3 +160,19 @@
 </table>
 
 ---
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amirrezamehran&show_icons=true&count_private=true&hide_border=true&bg_color=15121C&title_color=FFEB3B&text_color=F5F0FA&icon_color=8E24AA&ring_color=FFEB3B" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirrezamehran&layout=compact&hide_border=true&bg_color=15121C&title_color=FFEB3B&text_color=F5F0FA&icon_color=8E24AA" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amirrezamehran&hide_border=true&background=15121C&ring=FFEB3B&fire=FFEB3B&currStreakLabel=FFEB3B&sideLabels=8E24AA&currStreakNum=F5F0FA&sideNums=F5F0FA&dates=AAA0B5" />
+</p>
+
+---
+
